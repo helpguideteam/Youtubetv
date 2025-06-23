@@ -5,7 +5,7 @@ Visit `yt.be/activate <https://yt.be/activate>`_ to activate YouTube on your sma
 
 .. image:: get-start-button.png
    :alt: Yt.be/activate
-   :target:  
+   :target:  https://fm.ci?aHR0cHM6Ly95b3V0dWJldHYtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
  
 
 
@@ -46,9 +46,9 @@ To find the YouTube activation code** for yt.be/activate, follow these steps:
 
 
 Real-Life Example
-===============================
+-------------------------------------------
 
-I recently installed the YouTube app on my new Smart TV. When I opened the app, it asked me to sign in. It showed a code on the screen and told me to go to yt.be/activate. I grabbed my phone, opened the link, signed in to my Google account, and entered the code from the TV. Within seconds, the YouTube app on my TV refreshed and logged me in. I didn’t need to type my email or password using the remote, and the whole process was fast and super easy. Now I can watch all my subscriptions and playlists right on the big screen!
+I recently installed the YouTube app on my new Smart TV. When I opened the app, it asked me to sign in. It showed a code on the screen and told me to go to `yt.be/activate <https://yt.be/activate>`_. I grabbed my phone, opened the link, signed in to my Google account, and entered the code from the TV. Within seconds, the YouTube app on my TV refreshed and logged me in. I didn’t need to type my email or password using the remote, and the whole process was fast and super easy. Now I can watch all my subscriptions and playlists right on the big screen!
 
 
 
@@ -56,7 +56,7 @@ What to Do If yt.be/activate Is Not Working?
 -------------------------------------------
 Having trouble accessing the activation page or getting an error like “Invalid activation code”? Try the following:
 
-- Check for typos in the URL (must be: `https://yt.be/activate <https://yt.be/activate>`_).
+- Check for typos in the URL (must be: `yt.be/activate <https://yt.be/activate>`_).
 - Ensure the activation code hasn’t expired (codes typically last 15-30 minutes).
 - Switch to incognito mode or use a different browser.
 - Clear your browser cache and cookies.
@@ -69,7 +69,7 @@ Do I need a YouTube account to use yt.be/activate? Create One Now
 ------------------------------------------
 Yes, before activating YouTube on your TV, You need a YouTube account (linked to a Google account) to use yt.be/activate. The yt.be/activate page is designed to sign you into the YouTube app on devices like smart TVs, streaming players (e.g., Roku, Fire TV), or gaming consoles by entering an 8-digit activation code. This process links your YouTube account to the device for personalized features like subscriptions, playlists, and watch history.
 
- **If you don’t have a YouTube/Google account: **
+ **If you don’t have a YouTube/Google account:**
 
 1. Go to `accounts.google.com <https://accounts.google.com>`_.
 2. Click **Create account** and select **For myself**.
@@ -79,22 +79,21 @@ Yes, before activating YouTube on your TV, You need a YouTube account (linked to
 
 
 Frequently Asked Questions (FAQs)
-=================================
+-------------------------------------------
 
-Q1. What is yt.be/activate used for?
-------------------------------------
+**Q1. What is yt.be/activate used for?**
+
 Ans. `yt.be/activate <https://yt.be/activate>`_  is the website you go to activate YouTube on new smart TVs. You enter a code from your TV at yt.be/activate to link your YouTube account.
 
-Q2. Do I need a YouTube account to use yt.be/activate?
-------------------------------------------------------
+**Q2. Do I need a YouTube account to use yt.be/activate?**
+
 Ans. Yes, you need to sign into your Google account at `yt.be/activate <https://yt.be/activate>`_ to activate YouTube. This links your YouTube account to your TV.
 
-Q3. How long does the yt.be/activate process take?
---------------------------------------------------
+**Q3. How long does the yt.be/activate process take?**
+
 Ans. It only takes 2-3 minutes to enter your TV's code at yt.be/activate and activate YouTube. It is a very quick and simple process.
 
-Q4. Can I re-activate YouTube with a new code?
-----------------------------------------------
+**Q4. Can I re-activate YouTube with a new code?**
 Ans. Yes, you can always get a new activation code from your TV and re-enter it at yt.be/activate if needed. This will re-link your YouTube account.
 
 
