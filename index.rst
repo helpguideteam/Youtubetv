@@ -26,7 +26,7 @@ Your device is now ready to stream YouTube videos, playlists, and subscriptions.
 
 How do I find the YouTube activation code for yt.be/activate?
 -------------------------------------------
-To find the YouTube activation code** for yt.be/activate, follow these steps:
+To find the **YouTube activation code** for yt.be/activate, follow these steps:
 
 1. **Turn on your Smart TV or device**  
    (such as Roku, Fire TV Stick, Apple TV, PlayStation, Xbox, etc.).
