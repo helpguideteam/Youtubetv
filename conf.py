@@ -12,7 +12,7 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'yt.be/activate enter code tv'
-copyright = '2025, VIZIO Inc.'
+copyright = '2025, Youtube tv.'
 author = 'yt.be/activate'
 
 # The full version, including alpha/beta/rc tags
