@@ -1,7 +1,7 @@
 Yt.be/activate - Online Portal to Youtube activate enter code tv
 ===============================
 
-Visit `yt.be/activate <https://yt.be/activate>`_ to activate YouTube on your smart TV or streaming device quickly and securely. Use this step-by-step guide to enter your activation code, sign in, and start streaming YouTube content with full access to features and benefits.
+Visit yt.be/activate to activate YouTube on your smart TV or streaming device quickly and securely. Use this step-by-step guide to enter your activation code, sign in, and start streaming YouTube content with full access to features and benefits.
 
 .. image:: get-start-button.png
    :alt: Yt.be/activate
@@ -16,7 +16,7 @@ Follow these up-to-date instructions to activate YouTube on your TV or streaming
 
 1. Open the YouTube app on your smart TV, Roku, Fire Stick, Apple TV, or other streaming device.
 2. Navigate to the **Sign In** or **Settings** menu, where you’ll see an 8-digit activation code displayed on the screen.
-3. Open a browser on your computer, phone, or tablet and go to: `yt.be/activate <https://yt.be/activate>`_.
+3. Open a browser on your computer, phone, or tablet and go to: yt.be/activate.
 4. Enter the 8-digit activation code shown on your TV screen in the provided field.
 5. Sign in to your Google account. If you don’t have one, click **Create account** to set one up.
 6. Click **Next** or **Activate** to link your device to your Google account.
@@ -48,7 +48,7 @@ To find the **YouTube activation code** for yt.be/activate, follow these steps:
 Real-Life Example
 -------------------------------------------
 
-I recently installed the YouTube app on my new Smart TV. When I opened the app, it asked me to sign in. It showed a code on the screen and told me to go to `yt.be/activate <https://yt.be/activate>`_. I grabbed my phone, opened the link, signed in to my Google account, and entered the code from the TV. Within seconds, the YouTube app on my TV refreshed and logged me in. I didn’t need to type my email or password using the remote, and the whole process was fast and super easy. Now I can watch all my subscriptions and playlists right on the big screen!
+I recently installed the YouTube app on my new Smart TV. When I opened the app, it asked me to sign in. It showed a code on the screen and told me to go to youtbe official page. I grabbed my phone, opened the link, signed in to my Google account, and entered the code from the TV. Within seconds, the YouTube app on my TV refreshed and logged me in. I didn’t need to type my email or password using the remote, and the whole process was fast and super easy. Now I can watch all my subscriptions and playlists right on the big screen!
 
 
 
@@ -56,12 +56,12 @@ What to Do If yt.be/activate Is Not Working?
 -------------------------------------------
 Having trouble accessing the activation page or getting an error like “Invalid activation code”? Try the following:
 
-- Check for typos in the URL (must be: `yt.be/activate <https://yt.be/activate>`_).
+- Check for typos in the URL (must be: yt.be/activate).
 - Ensure the activation code hasn’t expired (codes typically last 15-30 minutes).
 - Switch to incognito mode or use a different browser.
 - Clear your browser cache and cookies.
 - Ensure your internet connection is stable on both the TV and the device you’re using.
-- Try accessing `tv.youtube.com/start <https://tv.youtube.com/start>`_ as an alternative activation page.
+- Try accessing `tv.youtube.com/start as an alternative activation page.
 
 If issues persist, visit the YouTube Help Center or check your device’s support page.
 
@@ -83,7 +83,7 @@ Frequently Asked Questions (FAQs)
 
 **Q1. What is yt.be/activate used for?**
 
-Ans. `yt.be/activate <https://yt.be/activate>`_  is the website you go to activate YouTube on new smart TVs. You enter a code from your TV at yt.be/activate to link your YouTube account.
+Ans. yt.be activate is the website you go to activate YouTube on new smart TVs. You enter a code from your TV at yt.be/activate to link your YouTube account.
 
 **Q2. Do I need a YouTube account to use yt.be/activate?**
 
