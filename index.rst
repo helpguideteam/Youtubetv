@@ -5,7 +5,7 @@ Visit yt.be/activate to activate YouTube on your smart TV or streaming device qu
 
 .. image:: get-start-button.png
    :alt: Yt.be/activate
-   :target:  https://fm.ci?aHR0cHM6Ly95b3V0dWJldHYtaGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target:  https://ytbeactivate.github.io/
  
 
 
