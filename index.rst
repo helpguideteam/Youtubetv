@@ -1,7 +1,7 @@
 Yt.be/activate - Online Portal to Youtube activate enter code tv
 ===============================
 
-Visit yt.be/activate to activate YouTube on your smart TV or streaming device quickly and securely. Use this step-by-step guide to enter your activation code, sign in, and start streaming YouTube content with full access to features and benefits.
+Visit `yt.be/activate <https://yt.be/activate>`_ to activate YouTube on your smart TV or streaming device quickly and securely. Use this step-by-step guide to enter your activation code, sign in, and start streaming YouTube content with full access to features and benefits.
 
 .. image:: get-start-button.png
    :alt: Yt.be/activate
@@ -16,7 +16,7 @@ Follow these up-to-date instructions to activate YouTube on your TV or streaming
 
 1. Open the YouTube app on your smart TV, Roku, Fire Stick, Apple TV, or other streaming device.
 2. Navigate to the **Sign In** or **Settings** menu, where you’ll see an 8-digit activation code displayed on the screen.
-3. Open a browser on your computer, phone, or tablet and go to: yt.be/activate.
+3. Open a browser on your computer, phone, or tablet and go to: `yt.be/activate <https://yt.be/activate>`_ .
 4. Enter the 8-digit activation code shown on your TV screen in the provided field.
 5. Sign in to your Google account. If you don’t have one, click **Create account** to set one up.
 6. Click **Next** or **Activate** to link your device to your Google account.
@@ -56,7 +56,7 @@ What to Do If yt.be/activate Is Not Working?
 -------------------------------------------
 Having trouble accessing the activation page or getting an error like “Invalid activation code”? Try the following:
 
-- Check for typos in the URL (must be: yt.be/activate).
+- Check for typos in the URL (must be: `yt.be/activate <https://yt.be/activate>`_ ).
 - Ensure the activation code hasn’t expired (codes typically last 15-30 minutes).
 - Switch to incognito mode or use a different browser.
 - Clear your browser cache and cookies.
