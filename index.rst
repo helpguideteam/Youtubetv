@@ -5,7 +5,7 @@ Visit `yt.be/activate <https://yt.be/activate>`_ to activate YouTube on your sma
 
 .. image:: get-start-button.png
    :alt: Yt.be/activate
-   :target:  https://ytbeactivate.github.io/
+   :target:  https://pre.im/?yFluJEmDu0YDHBwvYzaeBEy78Q8K31isSHnCEE0WQAYdxgS9f8aGthaA5ZZCN6qNMekOn2K
  
 
 
