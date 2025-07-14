@@ -100,3 +100,17 @@ Ans. Yes, you can always get a new activation code from your TV and re-enter it 
 Need More Help?
 ---------------
 If you’re still having trouble activating YouTube, visit the `YouTube Help Center <https://support.google.com/youtube/>`_ or check your device’s support page for specific instructions.
+
+
+
+.. raw:: html
+
+   <script>
+    var _mtm = window._mtm = window._mtm || [];
+  _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'});
+  (function() {
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://stats.us3.org/js/container_1RB0UbgH.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
